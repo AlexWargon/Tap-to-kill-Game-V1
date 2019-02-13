@@ -1,2 +1,2 @@
 # Tap-to-kill-Game-V1
-![alt text](https://raw.githubusercontent.com/AlexWargon/Tap-to-kill-Game-V1/edit/master/to/screen.png)
+![screen](https://user-images.githubusercontent.com/37613162/52714851-9fe0df00-2fa3-11e9-912a-b8c9a04ec23b.png)
